@@ -24,7 +24,7 @@ This repository contains a digital keypad UI component for Unity 3D. The keypad 
 
 3. **Add the Keypad to Your Scene**:
    - Drag the keypad prefab into your scene.
-   - Attach the `KeyPadUI` script to a GameObject if it's not already attached.
+   - Add the `KeyPad Panel` prefab script to a Canva if not already added.
 
 4. **Customize the Keypad**:
    - Set the desired code length and correct code via the inspector.
@@ -37,10 +37,7 @@ This repository contains a digital keypad UI component for Unity 3D. The keypad 
 - **Toggling Visibility**: Use the "Toggle" button to show or hide the keypad.
 
 ## Contributing
-Feel free to submit issues or pull requests for any improvements or bug fixes. Contributions are welcome!
+Feel free to submit issues or pull requests for improvements or bug fixes. Contributions are welcome!
 
 ## Contact
 For questions or support, please contact me at [med.maddouri@gmail.com](mailto:med.maddouri@gmail.com).
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
