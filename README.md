@@ -3,6 +3,9 @@
 
 This repository contains a digital keypad UI component for Unity 3D. The keypad allows users to enter, validate, and change access codes, providing both visual and audio feedback for user interactions. 
 
+
+![Unity 3D KeyPad UI Screenshot](https://github.com/GlaDioTGTV/Unity3dKeyPad/blob/main/Assets/screenshot/Screenshot.png)
+
 ## Features
 - **Code Entry**: Users can enter a code using a series of buttons.
 - **Code Validation**: Validates the entered code and provides feedback on success or failure.
